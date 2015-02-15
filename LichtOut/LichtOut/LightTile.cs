@@ -12,5 +12,7 @@ namespace LichtOut
         //TODO: make a button
         //list of neightbours
         //onclick event
+
+        public List<LightTile> Neighbours { get; set; }
     }
 }

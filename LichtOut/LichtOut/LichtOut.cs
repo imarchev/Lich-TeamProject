@@ -83,5 +83,45 @@ namespace LichtOut
         {
             this.pnl_startGame.Visible = true;
         }
+
+        private void notifyIcon1_MouseDoubleClick(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void LichtOut_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void GetNeighbours(LightTile[,] tiles)
+        {
+            for (int row = 0; row < tiles.GetLength(0); row++)
+            {
+                for (int col = 0; col < tiles.GetLength(1); col++)
+                {
+                    tiles[row, col].Neighbours.Add(tiles[row, col]);
+
+                    if (row > 0)
+                    {
+                        tiles[row, col].Neighbours.Add(tiles[row - 1, col]);
+                        
+                    }
+                    if (row < tiles.GetLength(0) - 1)
+                    {
+                        tiles[row, col].Neighbours.Add(tiles[row + 1, col]);
+                    }
+                    if (col > 0)
+                    {
+                        tiles[row, col].Neighbours.Add(tiles[row, col - 1]);
+ 
+                    }
+                    if (col < tiles.GetLength(1) - 1)
+                    {
+                        tiles[row, col].Neighbours.Add(tiles[row, col + 1]);
+                    }
+                }
+            }
+        }
     }
 }

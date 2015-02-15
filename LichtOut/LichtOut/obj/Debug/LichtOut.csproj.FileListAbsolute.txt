@@ -7,3 +7,12 @@ c:\users\dentia\documents\visual studio 2013\Projects\LichtOut\LichtOut\obj\Debu
 c:\users\dentia\documents\visual studio 2013\Projects\LichtOut\LichtOut\obj\Debug\LichtOut.csproj.GenerateResource.Cache
 c:\users\dentia\documents\visual studio 2013\Projects\LichtOut\LichtOut\obj\Debug\LichtOut.exe
 c:\users\dentia\documents\visual studio 2013\Projects\LichtOut\LichtOut\obj\Debug\LichtOut.pdb
+C:\Users\home\Documents\GitHub\Lich-TeamProject\LichtOut\LichtOut\bin\Debug\LichtOut.exe.config
+C:\Users\home\Documents\GitHub\Lich-TeamProject\LichtOut\LichtOut\obj\Debug\LichtOut.exe
+C:\Users\home\Documents\GitHub\Lich-TeamProject\LichtOut\LichtOut\obj\Debug\LichtOut.pdb
+C:\Users\home\Documents\GitHub\Lich-TeamProject\LichtOut\LichtOut\bin\Debug\LichtOut.exe
+C:\Users\home\Documents\GitHub\Lich-TeamProject\LichtOut\LichtOut\bin\Debug\LichtOut.pdb
+C:\Users\home\Documents\GitHub\Lich-TeamProject\LichtOut\LichtOut\obj\Debug\LichtOut.csprojResolveAssemblyReference.cache
+C:\Users\home\Documents\GitHub\Lich-TeamProject\LichtOut\LichtOut\obj\Debug\LichtOut.LichtOut.resources
+C:\Users\home\Documents\GitHub\Lich-TeamProject\LichtOut\LichtOut\obj\Debug\LichtOut.Properties.Resources.resources
+C:\Users\home\Documents\GitHub\Lich-TeamProject\LichtOut\LichtOut\obj\Debug\LichtOut.csproj.GenerateResource.Cache
